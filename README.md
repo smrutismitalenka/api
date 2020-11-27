@@ -1,6 +1,6 @@
 ## Title
 ### Spotify API analysis
-Spotify API was used to get the album details of a particular artist. All the albums and tracks for that artist were analyzed. The visualization was done for different audio features like 'acousticness', 'danceability', 'energy', 'liveness' and 'valence' etc.
+Spotify API is used to get the album details of a particular artist. All the albums and tracks for that artist are analyzed. The visualization is done for different audio features like 'acousticness', 'danceability', 'energy', 'liveness' and 'valence' etc.
 ### Technologies used for the project
  Python, Numpy, Pandas, Plotly, Matplotlib
 ### Description of the project
